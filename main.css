@@ -1,0 +1,8 @@
+.box {
+  background-color: cornsilk;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 12px;
+  display: inline-block;
+  width: 400px;
+}
